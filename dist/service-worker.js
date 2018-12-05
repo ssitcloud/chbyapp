@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.55185823a29c9d8de037e4358d3f29fd.js"
+  "/chbyapp/dist/precache-manifest.bb4ff79a4338b1479f91d586279885f4.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "newchby-pwa"});
